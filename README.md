@@ -1,4 +1,4 @@
-# The Arabic midi keyboard II
+# The Arabic Midi Keyboard II
 
 This project is a combination of the Arabic MIDI Keyboard and the Drum Machine, which were originally separate applications. It allows you to play music using a computer keyboard or a touchscreen, and create drum patterns with various sounds. It is designed to be used in modern browsers, such as Google Chrome or Mozilla Firefox.
 
